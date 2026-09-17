@@ -13,6 +13,6 @@ public class guess{
 			if (c < 0){
 				c = -c;
 			}
-			System.out.print("Your guess is: " + b + " \nThI was thinking of is: " + a + " \nYou were off by: " + c);
+			System.out.print("Your guess is: " + b + " \nThe number I was thinking of is: " + a + " \nYou were off by: " + c);
 	}
 }
