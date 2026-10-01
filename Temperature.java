@@ -1,5 +1,5 @@
 import java.util.Scanner;
-	public class temp{
+	public class Temperature{
 		public static void main (String[] args){
 			final double C_TO_F = (9.0/5);
 			double f;
